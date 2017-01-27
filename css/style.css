@@ -1,0 +1,64 @@
+body{
+	background-image: url('../image/bck.jpg');
+	background-attachment: fixed;
+	padding-top: 60px;
+	padding-bottom: 50px;
+}
+
+.navbar-inverse {
+    border-color: #696969;
+}
+
+.container-fluid {
+	margin-bottom:10px;
+}
+
+.btn-default {
+    color: wheat;
+    background-color: #333;
+    border-color: #C0C0C0;
+}
+
+.panel{
+	margin-top: 15px;
+	background-color: #222;
+	border-color: #696969;
+}
+
+#wht-text{
+	color: white;
+}
+
+#ftr{
+	margin-bottom: 0;
+}
+
+.center-block{
+	margin-bottom: 5px;
+}
+
+#btm_nav{
+	min-height: 30px;
+	height: 30px;
+	color:white;
+}
+
+#btm_txt{
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+#mail{
+	font-size: 12;
+}
+
+table {
+    background-color: rgba(0, 0, 0, 0.84);
+}
+.form-control{
+	color:white;
+	background-color: #333;
+}
+
+#mar_bot{
+	margin-bottom: 20px;
+}
